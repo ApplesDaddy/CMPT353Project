@@ -1,0 +1,33 @@
+
+epoch 1 of 10: loss = 103827.7818
+epoch 2 of 10: loss = 27.2212
+epoch 3 of 10: loss = 25.2544
+epoch 4 of 10: loss = 21.9294
+epoch 5 of 10: loss = 17.2451
+epoch 6 of 10: loss = 11.9087
+epoch 7 of 10: loss = 7.1403
+epoch 8 of 10: loss = 3.8938
+epoch 9 of 10: loss = 2.2921
+epoch 10 of 10: loss = 1.7845
+epoch 1 of 10: loss = 1.7017
+[34m[1mwandb[39m[22m: [33mWARNING[39m Step only supports monotonically increasing values, use define_metric to set a custom x axis. For details see: https://wandb.me/define-metric
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 0 is less than current step: 9. Dropping entry: {'train loss': 1.7017282151070914, '_timestamp': 1712273464.0380337}).
+epoch 2 of 10: loss = 1.6976
+epoch 3 of 10: loss = 1.6975
+epoch 4 of 10: loss = 1.6975
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 1 is less than current step: 9. Dropping entry: {'train loss': 1.69755168696067, '_timestamp': 1712273471.1048403}).
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 2 is less than current step: 9. Dropping entry: {'train loss': 1.697509338737214, '_timestamp': 1712273477.2842321}).
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 3 is less than current step: 9. Dropping entry: {'train loss': 1.6975149881450544, '_timestamp': 1712273483.4480855}).
+epoch 5 of 10: loss = 1.6976
+epoch 6 of 10: loss = 1.6975
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 4 is less than current step: 9. Dropping entry: {'train loss': 1.6975871472995356, '_timestamp': 1712273490.5882604}).
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 5 is less than current step: 9. Dropping entry: {'train loss': 1.697544059836078, '_timestamp': 1712273497.5947046}).
+epoch 7 of 10: loss = 1.6976
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 6 is less than current step: 9. Dropping entry: {'train loss': 1.6975634478535495, '_timestamp': 1712273509.170791}).
+epoch 8 of 10: loss = 1.6976
+epoch 9 of 10: loss = 1.6976
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 7 is less than current step: 9. Dropping entry: {'train loss': 1.697572450641672, '_timestamp': 1712273518.0586355}).
+[34m[1mwandb[39m[22m: [33mWARNING[39m (User provided step: 8 is less than current step: 9. Dropping entry: {'train loss': 1.6975573759104248, '_timestamp': 1712273527.203735}).
+epoch 10 of 10: loss = 1.6976
+-1.0932310599637163
+20
